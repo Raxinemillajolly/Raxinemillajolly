@@ -1,6 +1,6 @@
 # Hi there, I'm Raxinemillajolly 👋
 
-![Profile Picture](/home/ubuntu/profile_avatar.png)
+![Profile Picture](./profile_avatar_compressed.jpg)
 
 ## 🌟 My Journey
 
