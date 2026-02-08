@@ -4,7 +4,7 @@
 
 ## 🌟 My Journey
 
-My journey began with a **BSc in Statistics**, where I cultivated a strong analytical foundation and a deep understanding of data. This academic rigor has been instrumental in my transition to becoming a **Data Scientist and Automation Engineer**. I am a 24-year-old intermediate developer based in Kenya, actively shipping code and building real-world solutions. My passion lies in bridging the gap between theoretical statistical insights and practical software engineering applications, creating impactful and efficient systems.
+My journey began with a **BSc in Statistics**, where I cultivated a strong analytical foundation and a deep understanding of data. This academic rigor has been instrumental in my transition to becoming a **Data Scientist and Automation Engineer**. As a 24-year-old intermediate developer based in Kenya, I am passionate about actively shipping code and building real-world solutions. My focus is on bridging the gap between theoretical statistical insights and practical software engineering applications, creating impactful and efficient systems that solve tangible problems.
 
 ## 🛠️ Skills & Expertise
 
@@ -28,17 +28,23 @@ My core competencies lie in leveraging data to drive insights and automate proce
 
 ## 💡 Key Projects
 
-### 1. Cleanshine Supplies POS
+### 1. Cleanshine Supplies POS 🛒
 
-A custom-built Python-based Point of Sale (POS) system developed and deployed for a local business. This project demonstrates my ability to translate real-world business requirements into a functional and efficient software solution, directly impacting operational efficiency and sales management.
+**Impact:** Developed and deployed a custom Python-based Point of Sale (POS) system for a local business, significantly improving their operational efficiency and sales tracking. This project showcases my ability to translate real-world business needs into robust, user-friendly software solutions.
 
-### 2. Predictive Sports Analytics
+**Technologies:** Python, SQLite, Custom UI Framework
 
-A data-driven project leveraging Python and advanced statistical modeling to forecast football match outcomes. This initiative showcases my proficiency in applying a strong statistical background to complex data analysis, developing predictive models, and extracting actionable insights from sports data.
+### 2. Predictive Sports Analytics ⚽
 
-### 3. n8n Automation Hub
+**Impact:** A data-driven project utilizing Python and advanced statistical modeling to forecast football match outcomes. This initiative demonstrates my proficiency in applying a strong statistical background to complex data analysis, developing accurate predictive models, and extracting actionable insights from sports data.
 
-A comprehensive repository of n8n workflows designed for seamless API integrations and robust task automation. This project highlights my expertise in building scalable and efficient automation solutions, streamlining processes, and connecting various services to enhance productivity.
+**Technologies:** Python (Pandas, NumPy, Scikit-learn), Statistical Modeling, Data Visualization
+
+### 3. n8n Automation Hub ⚙️
+
+**Impact:** Curated a comprehensive repository of n8n workflows for seamless API integrations and robust task automation across various platforms. This project highlights my expertise in building scalable and efficient automation solutions, streamlining processes, and enhancing overall productivity.
+
+**Technologies:** n8n, REST APIs, Webhooks, JavaScript
 
 ## 📚 Currently Learning
 
@@ -53,6 +59,8 @@ I'm actively expanding my knowledge in Data Science and Machine Learning. My cur
 ## 📊 My GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raxinemillajolly&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raxinemillajolly&theme=radical)
 
 ## 🌐 Connect with Me
 
